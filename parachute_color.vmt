@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_survival/parachute/parachute_color"
+	"$bumpmap" "models/props_survival/parachute/parachute_normal"
+	"$basemapluminancephongmask" "1"
+	"$phong" "1"
+	"$phongboost" "2.2"
+	"$phongexponent" "10"
+	"$phongdisablehalflambert" "1"
+	"$nocull" "1"
+}

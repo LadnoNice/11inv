@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/weapons/v_flaregun/flaregun_sheet"
+	"$bumpmap" "models/weapons/v_flaregun/flaregun_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$nocull" "1"
+}
